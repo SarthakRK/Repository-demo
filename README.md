@@ -1,4 +1,4 @@
 # Repository-demo
-This is my first Git Repository.
+This is My First Git Repository.
 <br>
 Author - Sarthak Katare
